@@ -5,9 +5,9 @@ public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
 char ch;
-String s;
-s=sc.nextLine();
-ch=s.charAt(0);
+String v1;
+v1=sc.nextLine();
+ch=v1.charAt(0);
 System.out.println("Ascii="+(int)ch);
 }
 }
